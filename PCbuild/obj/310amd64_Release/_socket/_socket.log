@@ -1,0 +1,5 @@
+﻿  socketmodule.c
+     Creating library C:\cpython-3.10.5\PCbuild\amd64\_socket.lib and object C:\cpython-3.10.5\PCbuild\amd64\_socket.exp
+  Generating code
+  Finished generating code
+  _socket.vcxproj -> C:\cpython-3.10.5\PCbuild\amd64\_socket.pyd

@@ -1,0 +1,15 @@
+﻿  Killing any running python.exe instances...
+  Generated sources are up to date
+  Getting build info from git
+  'git' is not recognized as an internal or external command,
+  operable program or batch file.
+C:\cpython-3.10.5\PCbuild\pythoncore.vcxproj(581,5): warning MSB3073: The command "git name-rev --name-only HEAD > "C:\cpython-3.10.5\PCbuild\obj\310amd64_PGInstrument\pythoncore\gitbranch.txt"" exited with code 9009.
+  'git' is not recognized as an internal or external command,
+  operable program or batch file.
+C:\cpython-3.10.5\PCbuild\pythoncore.vcxproj(582,5): warning MSB3073: The command "git rev-parse --short HEAD > "C:\cpython-3.10.5\PCbuild\obj\310amd64_PGInstrument\pythoncore\gitversion.txt"" exited with code 9009.
+  'git' is not recognized as an internal or external command,
+  operable program or batch file.
+C:\cpython-3.10.5\PCbuild\pythoncore.vcxproj(583,5): warning MSB3073: The command "git describe --all --always --dirty > "C:\cpython-3.10.5\PCbuild\obj\310amd64_PGInstrument\pythoncore\gittag.txt"" exited with code 9009.
+  Building : 
+C:\cpython-3.10.5\PCbuild\pythoncore.vcxproj(597,5): warning : Toolset v143 is not used for official builds. Your build may have errors or incompatibilities.
+  pythoncore.vcxproj -> C:\cpython-3.10.5\PCbuild\amd64\instrumented\python310.dll

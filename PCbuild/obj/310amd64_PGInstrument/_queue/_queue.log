@@ -1,0 +1,5 @@
+﻿  _queuemodule.c
+     Creating library C:\cpython-3.10.5\PCbuild\amd64\instrumented\_queue.lib and object C:\cpython-3.10.5\PCbuild\amd64\instrumented\_queue.exp
+  Generating code
+  Finished generating code
+  _queue.vcxproj -> C:\cpython-3.10.5\PCbuild\amd64\instrumented\_queue.pyd

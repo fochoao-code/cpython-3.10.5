@@ -1,0 +1,4 @@
+OUT_DIR = \
+C:\cpython-3.10.5.tar\cpython-3.10.5\externals\tcl-core-8.6.12.0\pkgs\itcl4.2.2\win\Release_VC1932
+TMP_DIR = \
+C:\cpython-3.10.5.tar\cpython-3.10.5\externals\tcl-core-8.6.12.0\pkgs\itcl4.2.2\win\Release_VC1932\itcl_ThreadedDynamic

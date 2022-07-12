@@ -1,0 +1,13 @@
+﻿  _ctypes.c
+  callbacks.c
+  callproc.c
+  cfield.c
+  malloc_closure.c
+  stgdict.c
+PGOMGR : warning PG0188: No .PGC files matching 'C:\cpython-3.10.5\PCbuild\amd64\_ctypes!*.pgc' were found.
+    Reading PGD file 1: C:\cpython-3.10.5\PCbuild\amd64\_ctypes.pgd
+C:\cpython-3.10.5\PCbuild\amd64\_ctypes.pgd : warning C4961: No profile data was merged into 'C:\cpython-3.10.5\PCbuild\amd64\_ctypes.pgd', profile-guided optimizations disabled
+     Creating library C:\cpython-3.10.5\PCbuild\amd64\_ctypes.lib and object C:\cpython-3.10.5\PCbuild\amd64\_ctypes.exp
+  Generating code
+  Finished generating code
+  _ctypes.vcxproj -> C:\cpython-3.10.5\PCbuild\amd64\_ctypes.pyd

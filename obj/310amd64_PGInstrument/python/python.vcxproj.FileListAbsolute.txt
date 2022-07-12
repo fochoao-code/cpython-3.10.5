@@ -1,0 +1,1 @@
+C:\cpython-3.10.5\PCbuild\amd64\instrumented\pgort140.dll

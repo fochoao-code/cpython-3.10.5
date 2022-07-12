@@ -1,0 +1,4 @@
+OUT_DIR = \
+C:\cpython-3.10.5.tar\cpython-3.10.5\externals\tcl-core-8.6.12.0\pkgs\tdbcsqlite3-1.1.3\win\Release_VC1932
+TMP_DIR = \
+C:\cpython-3.10.5.tar\cpython-3.10.5\externals\tcl-core-8.6.12.0\pkgs\tdbcsqlite3-1.1.3\win\Release_VC1932\tdbcsqlite3_ThreadedDynamic

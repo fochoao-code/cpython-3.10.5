@@ -1,0 +1,8 @@
+﻿  _elementtree.c
+  xmlparse.c
+  xmlrole.c
+  xmltok.c
+     Creating library C:\cpython-3.10.5\PCbuild\amd64\instrumented\_elementtree.lib and object C:\cpython-3.10.5\PCbuild\amd64\instrumented\_elementtree.exp
+  Generating code
+  Finished generating code
+  _elementtree.vcxproj -> C:\cpython-3.10.5\PCbuild\amd64\instrumented\_elementtree.pyd

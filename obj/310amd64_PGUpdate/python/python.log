@@ -1,0 +1,16 @@
+﻿  python.c
+  Merging C:\cpython-3.10.5\PCbuild\amd64\python!1.pgc
+  C:\cpython-3.10.5\PCbuild\amd64\python!1.pgc: Used 13.7% (3368 / 24576) of total space reserved.  0.0% of the counts were dropped due to overflow.
+    Reading PGD file 1: C:\cpython-3.10.5\PCbuild\amd64\python.pgd
+  Generating code
+  
+  0 of 0 ( 0.0%) original invalid call sites were matched.
+  0 new call sites were added.
+  1 of 1 (100.00%) profiled functions will be compiled for speed
+  0 of 0 inline instances were from dead/cold paths 
+  1 of 1 functions (100.0%) were optimized using profile data
+  1 of 1 instructions (100.0%) were optimized using profile data
+  Finished generating code
+  python.vcxproj -> C:\cpython-3.10.5\PCbuild\amd64\python.exe
+  C:\WINDOWS\System32\ucrtbase.dll is version 10.0.19041.789
+  Wrote C:\cpython-3.10.5\PCbuild\amd64\LICENSE.txt
